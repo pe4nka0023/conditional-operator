@@ -9,7 +9,6 @@ public class Main {
             System.out.println("Если возраст человека равен" + age + ", то он совершеннолетний");
         }
 
-
         //task 2
         int temp = 13;
         if (temp > 5) {
